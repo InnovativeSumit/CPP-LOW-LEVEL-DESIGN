@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+</div>
 
 
 ## 🎯 Repository Objective
